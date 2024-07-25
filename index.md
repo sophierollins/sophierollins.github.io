@@ -2,44 +2,23 @@
 layout: default
 ---
 
-## About Me
+## Welcome!
 
-<img class="profile-picture" src="sherlock.jpg">
+<!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I'm Sophie (she/her), and I am a PhD student in Technology and Social Behavior at Northwestern University. I'm part of the [Creative Interfaces Research + Design Studio](https://creativeinterfaces.soc.northwestern.edu/) and advised by Prof. Duri Long.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+My research lies in human-computer interaction, and my interests include AI literacy, data privacy, and online creative communities. Currently, I work with Prof. Long on developing museum exhibits that utilize embodied interaction and creative making to teach middle school-aged youth about AI. 
 
-## Research Interest
+Before starting my PhD, I graduated with a joint BS/MS in Computer Science from Northwestern University in 2023. I have experience as a Software Engineering Intern at Lyft and RightHand Technologies. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I spend most of my free time knitting and crocheting and connecting with other fibre artists over social media.
+
+You can contact me at sophierollins2023@u.northwestern.edu.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+1. **Knowledge Net: Fostering Children’s Understanding of Knowledge Representations Through Creative Making and Embodied Interaction in a Museum Exhibit**.\
+    Sophie Rollins, Katherine Hancock, Jasmin Ali-Diaz, Nyssa Shahdadpuri, & Duri Long. 2024. In Proceedings of the 16th Conference on Creativity & Cognition (C&C '24) [[link]](https://doi.org/10.1145/3635636.3664254)
+2. **Fostering AI Literacy with Embodiment & Creativity: From Activity Boxes to Museum Exhibits**.\
+    Duri Long, Sophie Rollins, Jasmin Ali-Diaz, Katherine Hancock, Samnang Nuonsinoeun, Jessica Roberts, & Brian Magerko. 2023. In Proceedings of the 22nd Annual ACM Interaction Design and Children Conference (IDC '23) [[link]](https://dl.acm.org/doi/abs/10.1145/3585088.3594495)
