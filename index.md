@@ -27,3 +27,4 @@ You can contact me at sophierollins2023@u.northwestern.edu.
     **Sophie Rollins**, Katherine Hancock, Jasmin Ali-Diaz, Nyssa Shahdadpuri, & Duri Long. 2024. In Proceedings of the 16th Conference on Creativity & Cognition (C&C '24) [[link]](https://doi.org/10.1145/3635636.3664254)
 5. **Fostering AI Literacy with Embodiment & Creativity: From Activity Boxes to Museum Exhibits.**\
     Duri Long, **Sophie Rollins**, Jasmin Ali-Diaz, Katherine Hancock, Samnang Nuonsinoeun, Jessica Roberts, & Brian Magerko. 2023. In Proceedings of the 22nd Annual ACM Interaction Design and Children Conference (IDC '23) [[link]](https://dl.acm.org/doi/abs/10.1145/3585088.3594495)
+    
