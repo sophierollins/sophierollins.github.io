@@ -6,7 +6,7 @@ layout: default
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-I'm Sophie (she/her), and I am a PhD student in Technology and Social Behavior at Northwestern University. I'm part of the [Creative Interfaces Research + Design Studio](https://creativeinterfaces.soc.northwestern.edu/) and advised by Prof. Duri Long.
+I'm Sophie (she/her), and I am a PhD student in Technology and Social Behavior at Northwestern University. I'm part of the [Creative Interfaces Research + Design Studio](https://www.creativeinterfaces.northwestern.edu/) and advised by Prof. Duri Long.
 
 My research lies in human-computer interaction, and my interests include designing interventions for fostering AI literacy, as well as participatory speculative design of emerging technologies. Currently, I work with Prof. Long on developing museum exhibits that utilize embodied interaction and creative making to teach middle school-aged youth about AI. 
 
