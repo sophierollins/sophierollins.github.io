@@ -21,7 +21,7 @@ You can contact me at sophierollins2023@u.northwestern.edu.
     Sohyeon Hwang, **Sophie Rollins\***, Thatiany Andrade Nunes\*, Yuhan Liu, Richmond Y. Wong, Aaron Shaw, & Andrés Monroy-Hernández. 2026. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26). \[forthcoming]\
     \* authors contributed equally
 2. **Designing and Evaluating Museum Exhibit Prototypes to Foster Middle Schoolers’ AI Literacy through Creativity and Embodiment.**\
-    Hasti Darabipourshiraz\*, **Sophie Rollins\***, Milka Trajkova, Chengzhi Zhang, Yasmine Belghith, Tom McKlin, Jessica Roberts, Brian Magerko, & Duri Long. 2026. In Proceedings of the Twentieth Conference on Tangible, Embedded, and Embodied Interaction (TEI '26) [[link]](https://dl.acm.org/doi/10.1145/3731459.3773305)
+    Hasti Darabipourshiraz\*, **Sophie Rollins\***, Milka Trajkova, Chengzhi Zhang, Yasmine Belghith, Tom McKlin, Jessica Roberts, Brian Magerko, & Duri Long. 2026. In Proceedings of the Twentieth Conference on Tangible, Embedded, and Embodied Interaction (TEI '26) [[link]](https://dl.acm.org/doi/10.1145/3731459.3773305)\
     \* authors contributed equally
 3. **AI Unplugged: Exploring Pathways from Physical Simulation to Conceptualization of AI Reasoning Processes.**\
     Hasti Darabipourshiraz, Lily Murakami Ng, Grace Wang, **Sophie Rollins**, & Duri Long. 2026. ACM Transactions on Computing Education [[link]](https://doi.org/10.1145/3786761)
